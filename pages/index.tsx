@@ -16,20 +16,26 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={inter.className}>
-        <h1 className="text-4xl">RentalPro</h1>
-        <p>A rental management system for the AV industry that doesn’t suck.</p>
-        <p>Follow the progress.</p>
-        <ul>
-          <li>
-            <a href="https://github.com/carlosalfarodev/rentalpro">GitHub</a>
-          </li>
-          <li>
-            <a href="https://www.youtube.com/@alfarolabs">YouTube</a>
-          </li>
-          <li>
-            <a href="https://twitter.com/carlosalfarodev">Twitter</a>
-          </li>
-        </ul>
+        <div className="py-4">
+          <h1 className="text-4xl">RentalPro</h1>
+          <p>
+            A rental management system for the AV industry that doesn’t suck.
+          </p>
+        </div>
+        <div className="py-4">
+          <p>Follow the progress.</p>
+          <ul>
+            <li>
+              <a href="https://github.com/carlosalfarodev/rentalpro">GitHub</a>
+            </li>
+            <li>
+              <a href="https://www.youtube.com/@alfarolabs">YouTube</a>
+            </li>
+            <li>
+              <a href="https://twitter.com/carlosalfarodev">Twitter</a>
+            </li>
+          </ul>
+        </div>
       </main>
     </>
   );
