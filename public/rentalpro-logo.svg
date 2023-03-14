@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 13559 2625" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(4.16667,0,0,4.16667,-1220.52,-3187.9)">
+        <g id="Logo-Text" serif:id="Logo Text" transform="matrix(1,0,0,1,235.083,387.816)">
+            <g transform="matrix(567,0,0,567,3332.97,883.678)">
+            </g>
+            <text x="730.441px" y="883.678px" style="font-family:'FuturaPT-Bold', 'Futura PT', sans-serif;font-weight:700;font-size:567px;">RentalPr<tspan x="2986.53px " y="883.678px ">o</tspan></text>
+        </g>
+        <g id="Logo-Icon" serif:id="Logo Icon">
+            <g transform="matrix(0.611938,0,0,0.611938,-563.25,672.518)">
+                <circle cx="1913.72" cy="665.888" r="514.6"/>
+            </g>
+            <g transform="matrix(0.823806,0.475625,-0.475625,0.823806,661.195,-42.6647)">
+                <path d="M367.897,881.075L518.41,794.176L532.259,986.642L662.858,911.24L631.055,1310.17L563.684,1088.53L464.896,1141.89L367.897,881.075Z" style="fill:white;stroke:white;stroke-width:10.51px;"/>
+            </g>
+            <g transform="matrix(0.940625,-0.485654,0.448655,0.868964,-413.124,391.634)">
+                <path d="M686.129,939.684L542.505,898.017L515.912,1080.71L686.129,939.684Z" style="stroke:white;stroke-width:9.81px;"/>
+            </g>
+        </g>
+    </g>
+</svg>
